@@ -1,4 +1,4 @@
-Bài tập điểm B môn Lập trình GIS. File Forest_change
+<b>Bài tập điểm B môn Lập trình GIS. File Forest_change</b><br>
 Mục đích: Đưa ra bản đồ phân tích biến động rừng 
 Đầu vào: 2 ảnh viến thám đã phân loại (classify_84.tif và clssify_88.tif)
 Đầu ra bản đồ biến động rừng
