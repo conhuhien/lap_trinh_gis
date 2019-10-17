@@ -6,3 +6,4 @@
   - Bước 1: Mở 2 ảnh viễn thám đã phân loại (classify_84.tif và clssify_88.tif)</br>
   - Bước 2: Tạo 2 file shapefile từ 2 ảnh trên</br>
   - Bước 3: Chồng xếp 2 file shapefile để thu được 1 bản đồ biến động rừng</br>
+<h2>Note: activate laptrinhgis</h2>
